@@ -48,7 +48,7 @@ Expose ports of only required services
 
 Externalised Configuration : Spring Config Server : [ms-config-server](https://github.com/sujitrs/microservices1.0/tree/master/ms-config-server)
 
-Service Registry : Eureka Server : [ms-service-registry-server]()
+Service Registry : Eureka Server : [ms-service-registry-server](https://github.com/sujitrs/microservices1.0/tree/master/ms-service-registry-server)
 
 API Gateway : Zuul Proxy : [ms-api-gateway](https://github.com/sujitrs/microservices1.0/tree/master/ms-api-gateway)
 
