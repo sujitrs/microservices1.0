@@ -62,6 +62,11 @@ Sample Edge UI (Eureka Client) : [web-eureka-client](https://github.com/sujitrs/
 
 Sample Microservices : [ms-user-repo](https://github.com/sujitrs/microservices1.0/tree/master/ms-user-repo), [ms-app-repo](https://github.com/sujitrs/microservices1.0/tree/master/ms-app-repo), [ms-file-mgmnt](https://github.com/sujitrs/microservices1.0/tree/master/ms-file-mgmnt)
 
+## Eureka Client
+
+![image](https://user-images.githubusercontent.com/23429265/53955681-a88a8800-40ff-11e9-95a3-77cfb1c9e9a2.png)
+
+
 ## Next Steps
 ### Security 
 Between Micro-Services and Config Server/Service Registry
