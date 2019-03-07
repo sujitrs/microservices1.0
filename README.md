@@ -66,16 +66,19 @@ Sample Microservices : [ms-user-repo](https://github.com/sujitrs/microservices1.
 
 ![image](https://user-images.githubusercontent.com/23429265/53955681-a88a8800-40ff-11e9-95a3-77cfb1c9e9a2.png)
 
+## Non-Eureka Client
+
+![image](https://user-images.githubusercontent.com/23429265/53955834-07500180-4100-11e9-820e-4b951f0a3031.png)
 
 ## Next Steps
-### Security 
+### A. Security 
 Between Micro-Services and Config Server/Service Registry
 
 API Gateway Security to implement interceptors/ OAuth 2.0
-### For non-Eureka Client, What if we want to control number of Zuul Server instances dynamically ?
-### Kubernetes for Auto Scale
-### Actuators for health of Microservices
-### HA for ELK and Fluentd
+### B. For non-Eureka Client, What if we want to control number of Zuul Server instances dynamically ?
+### C. Kubernetes for Auto Scale
+### D. Actuators for health of Microservices
+### E. HA for ELK and Fluentd
 
 
 
